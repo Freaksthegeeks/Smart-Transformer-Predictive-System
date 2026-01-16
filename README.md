@@ -97,7 +97,7 @@ ESP32 | IoT | OPC UA | Data Analytics
 ---
 
 ## 📸 Hardware Setup
-![Hardware Setup](images/Hardware.jpg)
+![Hardware Setup](images/Hardware.jpeg)
 
 ## 📜 License
 
