@@ -96,6 +96,9 @@ ESP32 | IoT | OPC UA | Data Analytics
 
 ---
 
+## 📸 Hardware Setup
+![Hardware Setup](images/Hardware.jpg)
+
 ## 📜 License
 
 Open-source project for educational and research purposes.
